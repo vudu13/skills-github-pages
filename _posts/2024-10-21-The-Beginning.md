@@ -1,5 +1,5 @@
 ---
-title: "The-Beginning"
+title: "The Beginning"
 date: 2024-10-21
 ---
 
